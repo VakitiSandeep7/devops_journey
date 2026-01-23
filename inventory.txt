@@ -1,0 +1,4 @@
+server -01: active
+server -02: inactive
+server -01: active
+server -01: active
