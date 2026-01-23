@@ -2,5 +2,6 @@ Sandeep is officially a Linux student
 "I am learning Devops with lyra."
 "learn hown to use git" 
 "Master Kubernetes by next month"
-"Sandeep is a master of linux"
+"sandeep is a master of linux and devops expert"
+
 
