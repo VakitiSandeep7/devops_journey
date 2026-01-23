@@ -3,3 +3,5 @@ Sandeep is officially a Linux student
 "learn hown to use git" 
 "Master Kubernetes by next month"
 "sandeep is a master of linux"
+"Sandeep is a devops expert"
+
