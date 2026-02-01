@@ -1,6 +1,6 @@
-server -01: active
-server -02: inactive
-server -01: active
-server -01: active
-Server_extra
-server_extra_2
+server_beta
+Server
+Server
+Server
+Server
+Server
